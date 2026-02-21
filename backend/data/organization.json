@@ -24,6 +24,20 @@
   ],
   "advisory": [
     {
+      "id": 7,
+      "ref": "PARM-190000611",
+      "name": "Shubham Chaurasiya",
+      "batch": "CE, 2023",
+      "linkedin": "https://www.linkedin.com/in/shubham-chaurasiya-2a521b201"
+    },
+    {
+      "id": 8,
+      "ref": "PARM-190000504",
+      "name": "Shilpi",
+      "batch": "CE, 2023",
+      "linkedin": "https://www.linkedin.com/in/shilpi"
+    },
+    {
       "id": 10,
       "ref": "PAR-1811101",
       "name": "Alok Kumar",
@@ -102,6 +116,42 @@
     }
   ],
   "coreAdvisory": [
+    
+    {
+      "id": 5,
+      "ref": "PARM-220003901",
+      "name": "Nilesh Kumar Singh",
+      "batch": "CE, 2026",
+      "linkedin": "https://www.linkedin.com/in/nilesh-kumar-singh-019ab82aa/"
+    },
+    {
+      "id": 6,
+      "ref": "PARM-220401002",
+      "name": "Akash Kapoor",
+      "batch": "ME, 2026",
+      "linkedin": "https://www.linkedin.com/in/akash-kapoor-4a8382256"
+    },
+    {
+      "id": 7,
+      "ref": "PARM-220405003",
+      "name": "Rishabh Shukla",
+      "batch": "ME, 2026",
+      "linkedin": "https://www.linkedin.com/in/rishabh-shukla-76891a259"
+    },
+    {
+      "id": 8,
+      "ref": "PARM-220001312",
+      "name": "Aniket Sahni",
+      "batch": "CE, 2026",
+      "linkedin": "https://www.linkedin.com/in/aniket-sahani-5a693a372/"
+    },
+    {
+      "id": 9,
+      "ref": "PARM-220404309",
+      "name": "Palak",
+      "batch": "ME, 2026",
+      "linkedin": "https://www.linkedin.com/in/palak-a959a02a5"
+    },
     {
       "id": 12,
       "ref": "PARM-210316501",
@@ -165,41 +215,6 @@
       "name": "Shikha Awasthi",
       "batch": "CHE, 2024",
       "linkedin": "https://www.linkedin.com/in/shikha-awasthi-33060323a"
-    },
-    {
-      "id": 5,
-      "ref": "PARM-190003208",
-      "name": "Manish Tarkar",
-      "batch": "CE, 2023",
-      "linkedin": "https://www.linkedin.com/in/manishtarkar123"
-    },
-    {
-      "id": 6,
-      "ref": "PARM-190310702",
-      "name": "Adarsh Bhardwaj",
-      "batch": "ECE, 2023",
-      "linkedin": "https://www.linkedin.com/in/adarshabj"
-    },
-    {
-      "id": 7,
-      "ref": "PARM-190000611",
-      "name": "Shubham Chaurasiya",
-      "batch": "CE, 2023",
-      "linkedin": "https://www.linkedin.com/in/shubham-chaurasiya-2a521b201"
-    },
-    {
-      "id": 8,
-      "ref": "PARM-190000504",
-      "name": "Shilpi",
-      "batch": "CE, 2023",
-      "linkedin": "https://www.linkedin.com/in/shilpi"
-    },
-    {
-      "id": 9,
-      "ref": "PARM-190515293",
-      "name": "Sharthik Sharma",
-      "batch": "CHE, 2023",
-      "linkedin": "https://www.linkedin.com/in/sharthik-sharma"
     }
   ],
   "director": {
@@ -248,94 +263,96 @@
   "executive": [
     {
       "id": 1,
-      "name": "Nilesh Kumar Singh",
+      "name": "Rajnish Sahni",
       "designation": "President",
-      "linkedin": "https://www.linkedin.com/in/nilesh-kumar-singh-019ab82aa",
-      "email": "snileshk1231@gmail.com",
-      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771147052/organization/org-1771147050446_pg5a13.jpg"
+      "linkedin": "https://www.linkedin.com/in/rajnish-sahni-5b6078295",
+      "email": "2300520000052@ietlucknow.ac.in",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690040/organization/org-1771690039111_gcqyve.jpg"
     },
     {
       "id": 2,
-      "name": "Akash Kapoor",
+      "name": "Nitesh Kumar Upadhyay",
       "designation": "Vice President",
-      "linkedin": "https://www.linkedin.com/in/akash-kapoor-4a8382256",
-      "email": "akashkapoor942@gmail.com",
-      "imgSrc": "/img/Team/2.jpg"
+      "linkedin": "https://www.linkedin.com/in/nitesh-kumar-upadhyay-031599274",
+      "email": "2300520400040@ietlucknow.ac.in",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690093/organization/org-1771690091941_slhfok.jpg"
     },
     {
       "id": 3,
-      "name": "Rishabh Shukla",
+      "name": "Akshit Agarwal",
       "designation": "Treasurer",
-      "linkedin": "https://www.linkedin.com/in/rishabh-shukla-76891a259",
-      "email": "rishabh7565099@gmail.com ",
-      "imgSrc": "/img/Team/3.jpg"
+      "linkedin": "https://www.linkedin.com/in/akshit-agarwal-0ab856203",
+      "email": "a.04agarwal@gmail.com",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690113/organization/org-1771690111843_u028ai.jpg"
     },
     {
       "id": 4,
-      "name": "Utkarsh Singh",
+      "name": "Harsh Chauhan",
       "designation": "Media Head",
-      "linkedin": "https://www.linkedin.com/in/utkarshsingh-iet",
-      "email": "utkarshsinghus181@gmail.com",
-      "imgSrc": "/img/Team/4.jpg"
+      "linkedin": "https://www.linkedin.com/in/harsh-chauhan-6bb348336",
+      "email": "hchauhan5221@gmail.com",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690137/organization/org-1771690136016_uqlnar.jpg"
     },
     {
       "id": 5,
-      "name": "Ashutosh Kumar Singh",
+      "name": "Anshika Mishra",
       "designation": "Competitive Exams Head",
-      "linkedin": "https://www.linkedin.com/in/ashutosh-kumar-singh-466b891b8",
-      "email": "aksingh.vns007@gmail.com",
-      "imgSrc": "/img/Team/5.jpg"
+      "linkedin": "https://www.linkedin.com/in/anshika-mishra-808000280",
+      "email": "2300520400014@ietlucknow.ac.in",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690150/organization/org-1771690148752_pmyld9.jpg"
     },
     {
       "id": 6,
-      "name": "Aryan Pandey",
+      "name": "Sikha Chaudhari",
       "designation": "PR Head",
-      "linkedin": "https://www.linkedin.com/in/aryan-pandey-391a30253",
-      "email": "aryan2004pandey@gmail.com",
-      "imgSrc": "/img/Team/6.jpg"
+      "linkedin": "https://www.linkedin.com/in/sikha-chaudhari-5939393a5",
+      "email": "sikhachaudhry670@gmail.com",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690165/organization/org-1771690164035_gjrpvu.jpg"
     },
     {
       "id": 7,
-      "name": "Anjali Tomar",
+      "name": "Priyam Srivastava",
       "designation": "PR Head",
-      "linkedin": "https://www.linkedin.com/in/anjali-tomar-71522a266",
-      "email": "tomaranjali014@gmail.com",
-      "imgSrc": "/img/Team/7.jpg"
+      "linkedin": "https://www.linkedin.com/in/priyam-srivastava-2534142b5",
+      "email": "2300520200051@ietlucknow.ac.in",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690178/organization/org-1771690177097_pb89v8.jpg"
     },
     {
       "id": 8,
-      "name": "Priyanshu Mishra",
+      "name": "Rishikesh Maurya",
       "designation": "PR Head",
-      "linkedin": "https://www.linkedin.com/in/priyanshu-mishra-6a1011220",
-      "email": "Priyanshumishra0.31415946@gmail.com",
-      "imgSrc": "/img/Team/8.jpg"
+      "linkedin": "https://www.linkedin.com/in/rishikesh-maurya-5a99082ba",
+      "email": "2300521520051@ietlucknow.ac.in",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690195/organization/org-1771690194770_oeifik.jpg"
     },
     {
       "id": 9,
-      "name": "Palak",
+      "name": "Bhumi Verma",
       "designation": "Girls Education Head",
-      "linkedin": "https://www.linkedin.com/in/palak-a959a02a5",
-      "email": "swatipalak2307@gmail.com",
-      "imgSrc": "/img/Team/9.jpg"
+      "linkedin": "https://www.linkedin.com/in/bhumi-verma-782632330",
+      "email": "2300520400025@ietlucknow.ac.in",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690212/organization/org-1771690211739_c9xdtm.jpg"
     },
     {
       "id": 10,
-      "name": "Vineet kumar",
+      "name": "Arpit Singh",
       "designation": "Girls Education Head",
-      "linkedin": "https://www.linkedin.com/in/vineet-kumar-391ab3296",
-      "email": "kumarvineet0928@gmail.com",
-      "imgSrc": "/img/Team/10.jpg"
-    },
-    {
-      "id": 1771147163505,
-      "name": "sgdfgsfssc",
-      "designation": "2025",
-      "linkedin": "huytr",
-      "email": "gydtg",
-      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771147161/organization/org-1771147158924_jdrqia.jpg"
+      "linkedin": "https://www.linkedin.com/in/arpit-singh-aa706735b",
+      "email": "mr.arpitsingh777@gmail.com",
+      "imgSrc": "https://res.cloudinary.com/ddo6wb1c5/image/upload/v1771690228/organization/org-1771690226876_es0u9p.jpg"
     }
   ],
   "legacyPresidents": [
+    {
+      "id": 1,
+      "name": "Nilesh Kumar Singh",
+      "designation": "President, Parmarth",
+      "department": "CE, Batch of 2026",
+      "message": "परमार्थ कोई साधारण संगठन नहीं, बल्कि एक प्रेरणा है — मानवता के लिए समर्पित होकर आगे बढ़ने की भावना। यहाँ उठाया गया हर कदम और की गई हर कोशिश किसी के जीवन में नई उम्मीद और सार्थक परिवर्तन लाने के लिए समर्पित होती है।\n\n - निलेश कुमार सिंह",
+      "linkedin": "https://www.linkedin.com/in/nilesh-kumar-singh-019ab82aa/",
+      "email": "snileshk1231@gmail.com",
+      "imgSrc": "/img/Team/1.jpg"
+    },
     {
       "id": 1,
       "name": "Vivek Kumar Dixit",
@@ -418,6 +435,16 @@
     }
   ],
   "legacyVicePresidents": [
+    {
+      "id": 1,
+      "name": "Akash Kapoor",
+      "designation": "Vice-President, Parmarth",
+      "department": "ME, Batch of 2026",
+      "message": "परमार्थ एक मंच से बढ़कर, सेवा और संवेदनशीलता की पहचान है। यह वह पहल है जहाँ समर्पण, सहयोग और सकारात्मक सोच मिलकर समाज में बदलाव की नई राह बनाते हैं। यहाँ हर प्रयास किसी ज़रूरतमंद के चेहरे पर मुस्कान लाने और उसके जीवन को बेहतर बनाने के उद्देश्य से किया जाता है।\n\n - आकाश कपूर",
+      "linkedin": "https://www.linkedin.com/in/akash-kapoor-4a8382256",
+      "email": "akashkapoor942@gmail.com",
+      "imgSrc": "/img/Team/2.jpg"
+    },
     {
       "id": 1,
       "name": "Arnav Saxena",
